@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monnieka
-- 👀 I’m interested in Machine Learning, Computer Vision, Artificial Intelligence and Robotics
+- 👀 I’m interested in Machine Learning, Computer Vision, Artificial Intelligence, Robotics and more..
 - 🌱 I’m currently attending the master degree in Computer Engineering and looking forward to do a PhD afterwards
 - 📫 How to reach me: monicamillunzi@gmail.com 
 
