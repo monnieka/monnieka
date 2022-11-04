@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @monnieka
 - 👀 I’m interested in Machine Learning, Computer Vision, Artificial Intelligence, Robotics and more..
-- 🌱 I’m currently attending the master degree in Computer Engineering and looking forward to do a PhD afterwards
-- 📫 How to reach me: monicamillunzi@gmail.com 
+- 🌱 I’m a PhD student at AImagelab (UNIMORE)
+- 📫 How to reach me: monica.millunzi@unimore.it 
 
 <!---
 monnieka/monnieka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
